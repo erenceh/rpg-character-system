@@ -1,9 +1,0 @@
-﻿  AbilityFactory.cpp
-  Character.cpp
-C:\dev\Projects\Personal Projects\rpg-character-system\RPGCharacterSystem\RPGCharacterSystem\src\Character.cpp(198,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  ClassFactory.cpp
-  JsonUtils.cpp
-  Generating Code...
-  RPGCharacterSystem.vcxproj -> C:\dev\Projects\Personal Projects\rpg-character-system\RPGCharacterSystem\x64\Debug\RPGCharacterSystem.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
