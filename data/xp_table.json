@@ -1,0 +1,10 @@
+{
+  "formula": {
+    "baseXP": 100,
+    "xpMultiplier": 1.5
+  },
+  "overrides": {
+    "5": 1200,
+    "10":  3500
+  }
+}

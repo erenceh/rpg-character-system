@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Fireball",
+    "damage": 20,
+    "damageGrowth": 3,
+    "manaCost": 10,
+    "manaGrowth": 1,
+    "cooldown": 2,
+    "statusEffect": "Burn",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "MAGE",
+    "minLevel": 1
+  },
+  {
+    "name": "Lightning Bolt",
+    "damage": 23,
+    "damageGrowth": 3,
+    "manaCost": 18,
+    "manaGrowth": 1,
+    "cooldown": 3,
+    "statusEffect": "Paralyze",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "MAGE",
+    "minLevel": 2
+  },
+  {
+    "name": "Ice Bolt",
+    "damage": 25,
+    "damageGrowth": 3,
+    "manaCost": 23,
+    "manaGrowth": 2,
+    "cooldown": 5,
+    "statusEffect": "Freeze",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "MAGE",
+    "minLevel": 4
+  },
+  {
+    "name": "Power Strike",
+    "damage": 18,
+    "damageGrowth": 3,
+    "manaCost": 0,
+    "manaGrowth": 0,
+    "cooldown": 2,
+    "statusEffect": "None",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "WARRIOR",
+    "minLevel": 1
+  },
+  {
+    "name": "Rend",
+    "damage": 15,
+    "damageGrowth": 2,
+    "manaCost": 8,
+    "manaGrowth": 1,
+    "cooldown": 3,
+    "statusEffect": "Bleed",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "WARRIOR",
+    "minLevel": 2
+  },
+  {
+    "name": "Rage",
+    "damage": 0,
+    "damageGrowth": 0,
+    "manaCost": 12,
+    "manaGrowth": 1,
+    "cooldown": 6,
+    "statusEffect": "Damage Boost",
+    "targetType": "SELF",
+    "allowedClass": "WARRIOR",
+    "minLevel": 4
+  },
+  {
+    "name": "Power Shot",
+    "damage": 20,
+    "damageGrowth": 3,
+    "manaCost": 5,
+    "manaGrowth": 2,
+    "cooldown": 2,
+    "statusEffect": "None",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "RANGER",
+    "minLevel": 1
+  },
+  {
+    "name": "Poison Arrow",
+    "damage": 14,
+    "damageGrowth": 3,
+    "manaCost": 12,
+    "manaGrowth": 2,
+    "cooldown": 3,
+    "statusEffect": "Poison",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "RANGER",
+    "minLevel": 2
+  },
+  {
+    "name": "Fire Arrow",
+    "damage": 14,
+    "damageGrowth": 3,
+    "manaCost": 15,
+    "manaGrowth": 2,
+    "cooldown": 3,
+    "statusEffect": "Burn",
+    "targetType": "ENEMY_TARGET",
+    "allowedClass": "RANGER",
+    "minLevel": 4
+  }
+]

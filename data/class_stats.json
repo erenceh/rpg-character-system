@@ -1,0 +1,34 @@
+{
+  "MAGE": {
+    "maxHealth": 50,
+    "maxMana": 100,
+    "defense": 5,
+    "strength": 3,
+    "dexterity": 7,
+    "intelligence": 12
+  },
+  "WARRIOR": {
+    "maxHealth": 100,
+    "maxMana": 3,
+    "defense": 12,
+    "strength": 10,
+    "dexterity": 7,
+    "intelligence": 3
+  },
+  "RANGER": {
+    "maxHealth": 70,
+    "maxMana": 12,
+    "defense": 8,
+    "strength": 7,
+    "dexterity": 12,
+    "intelligence": 5
+  },
+  "CLASS_UNKNOWN": {
+    "maxHealth": 20,
+    "maxMana": 0,
+    "defense": 0,
+    "strength": 0,
+    "dexterity": 0,
+    "intelligence": 0
+  }
+}

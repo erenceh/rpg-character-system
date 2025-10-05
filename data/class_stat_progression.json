@@ -1,0 +1,26 @@
+{
+  "MAGE": {
+    "healthGain": 5,
+    "manaGain": 15,
+    "strengthGain": 2,
+    "defenseGain": 3,
+    "dexterityGain": 4,
+    "intelligenceGain":  7
+  },
+  "WARRIOR": {
+    "healthGain": 15,
+    "manaGain": 5,
+    "strengthGain": 7,
+    "defenseGain": 6,
+    "dexterityGain": 3,
+    "intelligenceGain": 2
+  },
+  "RANGER": {
+    "healthGain": 10,
+    "manaGain": 8,
+    "strengthGain": 5,
+    "defenseGain": 4,
+    "dexterityGain": 7,
+    "intelligenceGain": 3
+  }
+}

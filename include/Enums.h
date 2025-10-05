@@ -1,0 +1,9 @@
+#ifndef _ENUMS_H_
+#define _ENUMS_H_
+
+enum ClassType { MAGE, WARRIOR, RANGER, CLASS_UNKNOWN };
+enum Faction { PLAYER, ALLY_FACTION, ENEMY_FACTION, NEUTRAL };
+enum TargetType { SELF, ALLY_TARGET, ENEMY_TARGET, TARGET_UNKNOWN };
+
+#endif // !_ENUMS_H_
+
